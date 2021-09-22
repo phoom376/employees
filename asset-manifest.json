@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phoom376/employees/static/css/main.93bd9aff.chunk.css",
+    "main.js": "/phoom376/employees/static/js/main.7164b6aa.chunk.js",
+    "main.js.map": "/phoom376/employees/static/js/main.7164b6aa.chunk.js.map",
+    "runtime-main.js": "/phoom376/employees/static/js/runtime-main.11c4a082.js",
+    "runtime-main.js.map": "/phoom376/employees/static/js/runtime-main.11c4a082.js.map",
+    "static/js/2.9886f0cf.chunk.js": "/phoom376/employees/static/js/2.9886f0cf.chunk.js",
+    "static/js/2.9886f0cf.chunk.js.map": "/phoom376/employees/static/js/2.9886f0cf.chunk.js.map",
+    "static/js/3.96cc73ff.chunk.js": "/phoom376/employees/static/js/3.96cc73ff.chunk.js",
+    "static/js/3.96cc73ff.chunk.js.map": "/phoom376/employees/static/js/3.96cc73ff.chunk.js.map",
+    "index.html": "/phoom376/employees/index.html",
+    "static/css/main.93bd9aff.chunk.css.map": "/phoom376/employees/static/css/main.93bd9aff.chunk.css.map",
+    "static/js/2.9886f0cf.chunk.js.LICENSE.txt": "/phoom376/employees/static/js/2.9886f0cf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/phoom376/employees/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c4a082.js",
+    "static/js/2.9886f0cf.chunk.js",
+    "static/css/main.93bd9aff.chunk.css",
+    "static/js/main.7164b6aa.chunk.js"
+  ]
+}
